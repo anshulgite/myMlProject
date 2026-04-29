@@ -1,0 +1,73 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.installed.cfg
+*.egg
+*.log
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+.env
+*.env
+*.sqlite3
+*.db
+*.sqlite
+venv/
+.envrc
+coverage/
+htmlcov/
+build/
+dist/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+ENV/
+venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Sphinx documentation
+docs/_build/
+
+# Local project settings
+.local/
+
+# macOS
+.DS_Store
